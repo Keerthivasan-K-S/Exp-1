@@ -35,6 +35,3 @@ nents clearly and meaningfully.
 
 # RESULT:
 Thus, the ATM & Banking System was created successfully.
-
-
-# RESULT:
